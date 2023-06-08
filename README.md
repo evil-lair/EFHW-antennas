@@ -32,6 +32,8 @@ Ground lug terminals from this ebay seller [ebay](https://www.ebay.com/str/riven
 
 Cable gland [amazon](https://www.amazon.com/gp/product/B07233GJ6M/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&th=1) size PG7 which is suitable for 3mm to 6.5mm diameter coax.
 
+Ferrite used for choke [fair-rite](https://fair-rite.com/product/round-cable-emi-suppression-cores-2631480002/)
+
 Carabiners [amazon](https://www.amazon.com/gp/product/B0833WSCCF/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 M2 cable thimble used with AWG18 antenna wire [amazon](https://www.amazon.com/gp/product/B0746D6192/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) if you want to go to a larger wire like AWG14, step this up to M3
