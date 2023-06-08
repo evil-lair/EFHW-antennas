@@ -6,7 +6,7 @@
 
 ![xfmroutside](images/xfmroutside.jpg)
 
-In the transformer directory are some gerber files for my cicuit boards:
+In the transformer directory are some gerber files for my circuit boards:
 
 25_9.zip is for 29.5mm ferrite
 
